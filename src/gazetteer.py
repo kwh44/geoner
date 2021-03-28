@@ -1,4 +1,5 @@
-import requests
+import time
+import grequests
 
 geonames = {"api": "http://api.geonames.org/searchJSON?q=",
             "format": "&maxRows=10&username=kwh44"}
@@ -6,8 +7,19 @@ geonames = {"api": "http://api.geonames.org/searchJSON?q=",
 gisgraphy = {"api": "https://services.gisgraphy.com/fulltext/fulltextsearch?q=",
              "format": "&format=json"}
 
-url = ""
+queries = ["Lviv", "Baranivka", "Kyiv", "London", "Zhytomyr"]
 
-response = requests.get(url)
+urls = [gisgraphy["api"] + i + gisgraphy["format"] for i in queries]
 
-data = response.json()
+#
+s = time.time()
+rs = (grequests.get(u) for u in urls)
+result = grequests.map(rs)
+e = time.time()
+print("Lookup time: ", e - s)
+for i in result:
+    print(i.json())
+#response = requests.get(url)
+
+#data = response.json()
+#rs = (grequests.get(u) for u in urls)
