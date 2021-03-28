@@ -7,4 +7,4 @@ docker run -ti --name geoner --mount type=bind,source=/data/geoner,target=/home/
     --device=/dev/dri:/dev/dri \
     --env="DISPLAY=$DISPLAY" \
     --env QT_X11_NO_MITSHM=1 \
-		kwh44/geoner:latest bash
+	  kwh44/geoner:latest bash
