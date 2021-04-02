@@ -1,18 +1,45 @@
 {
   "1": {
     "article_url": "https://www.nationalgeographic.com/travel/article/route-66",
-    "places_and_poi": ["Route 66", "Chicago", "Santa Monica", "America", "Tulsa",
-    "Cozy Dogs", "Springfield", "Illinois", "Cozy Dog Drive In", "Illinois Funks",
-    "Funks Grove Pure Maple Sirup", "Shirley", "Illinois", "Illinois Funks",
-    "Chain of Rocks Bridge", "Mississippi", "Missouri", "St. Louis", "Delmar Loop", "Blueberry Hill",
-    "Meramec Caverns", "Munger Moss Motel", "Lebanon", "Ozarks", "Cain's Ballroom"]
+    "file_name": "21.html",
+    "places_and_poi": [
+      "Route 66", "Chicago", "Santa Monica", "America", "Tulsa",
+      "Cozy Dogs", "Springfield", "Illinois", "Cozy Dog Drive In",
+      "Funks Grove Pure Maple Sirup", "Shirley", "Illinois", "Illinois Funks",
+      "Chain of Rocks Bridge", "Mississippi", "Missouri",
+      "St. Louis", "Delmar Loop", "Blueberry Hill",
+      "Meramec Caverns","Missouri",
+      "Munger Moss Motel", "Lebanon", "Missouri", "Ozarks",
+      "Tulsa", "Cain's Ballroom", "Woody Guthrie Center",
+      "Rock Cafe", "Stroud", "Oklahoma", "Tulsa", "Oklahoma City", "Costa Rica",
+      "Route 66 Museum", "Clinton", "Oklahoma", "Jiggs Smokehouse",
+      "Palo Duro Canyon State Park", "Texas", "Amarillo", "Cadillac Ranch", "Palo Duro Canyon", "Texas", "Oklahoma",
+      "Tucumcari", "New Mexico", "Blue Swallow Motel", "Michigan", "Odeon Theatre",
+      "El Morro National Monument", "Acoma",
+      "Meteor Crater", "Arizona",
+      "Kingman", "Arizona", "Hackberry General Store",
+      "Oatman", "Arizona", "Kingman", "Oatman Hotel",
+      "Needles", "California", "Colorado River", "Jack Smith Park", "El Garces",
+      "Wigwam Motel", "Rialto", "California", "L.A.", "San Bernardino",
+      "Will Rogers State Historic Park", "Los Angeles", "Santa Monica", "Palisades Park"
+    ]
   },
   "2": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/must-see-stops-destinations-california-route-1",
+    "file_name": "22.html",
+    "places_and_poi": [
+      "Southern California", "Pismo Beach", "Pismo", "Guadalupe-Nipomo Dunes", "Dunes Center",
+      "Guadalupe", "Avila Beach", "Trout Creek Trail", "Arroyo Grande", "Edna Valley", "Vandenberg Air Force Base",
+      "Lompoc", "La Purisima Mission", "California", "Buellton", "Pea Soup Andersen’s", "Hearst Castle",
+      "Mendenhall’s Museum of Gas Pumps and Petroliana", "OstrichLand USA", "Santa Ynez", "Santa Barbara",
+      "State Street", "El Paseo", "Harbor House Inn", "Huntington Beach", "Huntington Pier", "International Surfing Museum",
+      "Aquarium of the Pacific", "Long Beach", "Long Beach Convention and Entertainment Center", "L.A.", "Crystal Cove State Park",
+      "California", "Orange County", "Crystal Cove Beach Cottages", "Los Trancos Creek"
+    ]
   },
   "3": {
-    "article_url": "",
+    "article_url": "https://www.nationalgeographic.com/travel/article/virginia-tennessee-kentucky-national-parks",
+    "file_name": "23.html",
     "places_and_poi": []
   },
   "4": {
