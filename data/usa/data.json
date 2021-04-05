@@ -8,14 +8,14 @@
       "Funks Grove Pure Maple Sirup", "Shirley", "Illinois", "Illinois Funks",
       "Chain of Rocks Bridge", "Mississippi", "Missouri",
       "St. Louis", "Delmar Loop", "Blueberry Hill",
-      "Meramec Caverns","Missouri",
-      "Munger Moss Motel", "Lebanon", "Missouri", "Ozarks",
+      "Meramec Caverns", "Missouri",
+      "Munger Moss Motel", "Lebanon", "Missouri", "Elbow Inn Bar", "Big Piney River", "Ozarks",
       "Tulsa", "Cain's Ballroom", "Woody Guthrie Center",
       "Rock Cafe", "Stroud", "Oklahoma", "Tulsa", "Oklahoma City", "Costa Rica",
       "Route 66 Museum", "Clinton", "Oklahoma", "Jiggs Smokehouse",
       "Palo Duro Canyon State Park", "Texas", "Amarillo", "Cadillac Ranch", "Palo Duro Canyon", "Texas", "Oklahoma",
-      "Tucumcari", "New Mexico", "Blue Swallow Motel", "Michigan", "Odeon Theatre",
-      "El Morro National Monument", "Acoma",
+      "Tucumcari", "New Mexico", "Blue Swallow Motel", "Odeon Theatre",
+      "El Morro National Monument", "New Mexico", "Acoma",
       "Meteor Crater", "Arizona",
       "Kingman", "Arizona", "Hackberry General Store",
       "Oatman", "Arizona", "Kingman", "Oatman Hotel",
@@ -40,11 +40,31 @@
   "3": {
     "article_url": "https://www.nationalgeographic.com/travel/article/virginia-tennessee-kentucky-national-parks",
     "file_name": "23.html",
-    "places_and_poi": []
+    "places_and_poi": [
+      "Ronald Reagan Washington National Airport", "Arlington", "Virginia", "Shenandoah",
+      "Great Smoky Mountains", "Mammoth Cave", "Shenandoah National Park", "Skyline Drive", "Shenandoah National Park",
+      "Piedmont", "Shenandoah Valley", "Washington", "D.C.", "George Washington Memorial Parkway", "Manassas National Battlefield Park",
+      "Skyland Resort", "Shenandoah River", "Shenandoah Valley", "Piedmont", "Pollock Dining Room", "Big Meadows Lodge’s",
+      "Spottswood Dining Room", "Crescent Rock", "Hawksbill Mountain", "Rapidan Camp",
+      "Blackrock Summit", "Compton Peak", "Overall Run Falls", "Calvary Rocks",
+      "Great Smoky Mountains National Park", "Smoky Mountains", "U.S.", "Blue Ridge Parkway", "LeConte Lodge",
+      "Buckhorn Inn", "Baymont Inn & Suites", "Cades Cove Campground Store", "Cades Cove", "Clingmans Dome",
+      "Grotto Falls", "Deep Creek Trail", "Newfound Gap", "Charlies Bunion", "Chimney Tops", "Mount Le Conte", "Cataloochee Valley",
+      "Mammoth Cave National Park", "Catoosa Wildlife Management Area", "Mammoth Cave Hotel", "Crystal Lake Café",
+      "Watermill Restaurant", "Green River", "Cedar Sink", "Frozen Niagara entrance"
+    ]
   },
   "4": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/national-parks-california",
+    "file_name": "24.html",
+    "places_and_poi": [
+      "McCarran International", "Las Vegas", "Nevada", "California", "Sierra Nevada",
+      "Death Valley", "Mount Whitney", "Sequoia", "Yosemite Falls", "Yosemite", "Death Valley National Park",
+      "Death Valley", "Las Vegas", "Death Valley Junction", "Amargosa Opera House and Hotel", "Furnace Creek Resort",
+      "Furnace Creek Inn", "Badwater", "Scotty’s Castle", "Stovepipe Wells", "Zabriskie Point", "Furnace Creek",
+      "Golden Canyon", "Red Cathedral", "Wildrose Charcoal Kilns", "Wildrose Peak", "Ubehebe Crater",
+      "Yosemite National Park"
+    ]
   },
   "5": {
     "article_url": "",
