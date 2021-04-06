@@ -63,12 +63,26 @@
       "Death Valley", "Las Vegas", "Death Valley Junction", "Amargosa Opera House and Hotel", "Furnace Creek Resort",
       "Furnace Creek Inn", "Badwater", "Scotty’s Castle", "Stovepipe Wells", "Zabriskie Point", "Furnace Creek",
       "Golden Canyon", "Red Cathedral", "Wildrose Charcoal Kilns", "Wildrose Peak", "Ubehebe Crater",
-      "Yosemite National Park"
+      "Yosemite National Park", "Merced River", "Sierra Nevada", "Alabama Hills", "Lone Pine", "Manzanar National Historic Site",
+      "Mono Lake", "Ahwahnee Hotel", "Lower Yosemite Fall", "Yosemite Valley", "Half Dome", "Olmsted Point",
+      "Mirror Lake", "Mariposa Grove", "Wawona", "Grizzly Giant", "Glacier Point", "Taft Point", "Sentinel Dome",
+      "Sequoia and Kings Canyon National Park", "Mount Whitney", "General Sherman Tree", "Coarsegold", "Wuksachi Lodge",
+      "Wolverton Meadow", "Giant Forest", "Crystal Cave", "Congress Trail", "Kings Canyon", "North Grove Loop",
+      "General Grant Tree", "Kings Canyon Scenic Byway", "Hume Lake", "Kings River", "Moro Rock", "Ash Mountain",
+      "Tunnel Log", "Crescent Meadow Road"
     ]
   },
   "5": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/dark-sky-road-trip-in-the-southwest",
+    "file_name": "25.html",
+    "places_and_poi": ["Colorado", "Paint Mines Interpretive Park", "Colorado Springs", "Westcliffe", "Florence",
+    "Turmeric Indian & Nepalese Restaurant", "Westcliffe", "Silver Cliff", "Smokey Jack Observatory", "La Veta",
+    "Spanish Peaks", "Wahatoya State Wildlife Area", "Ryus Avenue Bakery", "Great Sand Dunes National Park",
+    "Great Sand Dunes", "Piñon Flats", "Zapata Ranch", "Zapata Falls", "Crestone Peaks", "Crestone",
+    "Crestone Ziggurat", "San Luis Valley", "Valley View Hot Springs", "Crestone Brewing Company",
+    "Baca National Wildlife Refuge", "Willow Lake", "Black Canyon", "Gunnison National Park", "Gunnison River",
+    "Paonia", "North Fork Valley", "Bross Hotel", "Paonia State Park", "Ragged Mountains", "Paonia Reservoir",
+    "Colorado National Monument", "Grand Junction’s", "Wedding Canyons", "Book Cliffs View", "Saddlehorn Campground"]
   },
   "6": {
     "article_url": "",
