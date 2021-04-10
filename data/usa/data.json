@@ -85,8 +85,12 @@
     "Colorado National Monument", "Grand Junction’s", "Wedding Canyons", "Book Cliffs View", "Saddlehorn Campground"]
   },
   "6": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/camping-road-trip-through-magical-caverns",
+    "file_name": "26.html",
+    "places_and_poi": ["Tennessee", "Chattanooga", "Craighead Caverns", "KOA", "Notchy Creek", "Cherokee National Forest",
+    "Craighead", "Bell Witch Cave", "Dunbar Cave State Park’s", "Spring Creek Campground", "Red River Campground",
+    "Cave Spring Hollow", "Jack Daniel’s Distillery", "Cumberland Caverns", "The Caverns", "Chattanooga",
+    "Ruby Falls", "Lookout Mountain", "Nickajack Cave", "Nickajack Lake", "Raccoon Mountain Caverns and Campground"]
   },
   "7": {
     "article_url": "",
