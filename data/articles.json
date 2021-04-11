@@ -87,12 +87,28 @@
     "Ruby Falls", "Lookout Mountain", "Nickajack Cave", "Nickajack Lake", "Raccoon Mountain Caverns and Campground"]
   },
   "7": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/places-to-go-coastal-road-trip",
+    "places_and_poi": ["Maine", "Pine Tree State", "Kennebunkport", "Mabel's Lobster Claw Restaurant",
+    "Sandy Pines Campground", "Scarborough River", "Paris", "Inn by the Sea", "Cape Elizabeth", "Crescent Beach",
+    "Portland", "Urban Farm Fermentory", "Freeport", " Wolfe’s Neck Woods State Park",
+    "Brunswick’s Fort Andross Mill", "Androscoggin River", "Topsham", "Androscoggin Riverwalk", "Kennebec River",
+    "Maine Maritime Museum", "Damariscotta River", "Rockland", "Farnsworth Art Museum", "Penobscot Bay",
+    "Camden", "Sea Bags"]
   },
   "8": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/hudson-valley-new-york-road-trip",
+    "places_and_poi": ["Tappan Zee Bridge", "Hudson River", "Hyde Park", "Nyack", "Hudson", "Kingston",
+    "Rhinebeck", "Tarrytown", "West Point", "Greenwich Village", "Edward Hopper House Art Center", "Stony Point",
+    "Bear Mountain State Park", "Bear Mountain", "Bear Mountain Inn", "Monroe", "Museum Village", "Goshen",
+    "Goshen Historic Track", "Harness Racing Museum", "Hall of Fame", "New Paltz", "Huguenot Street National Historic Landmark District",
+    "Shawangunks Ridge", "Mohonk Mountain House", "Mohonk Lake", "Kingston", "Kingston Urban Cultural Park", "Rondout",
+    "Trolley Museum of New York", "Hudson River Maritime Museum", "Kingston-Rhinecliff Bridge", "Rhinebeck",
+    "Beekman Arms", "Old Rhinebeck Aerodrome", "Hudson River National Historic Landmark District",
+    "Clermont State Historic Site", "Montgomery Place", "Staatsburgh State Historic Site", "Hyde Park",
+    "Vanderbilt Mansion National Historic Site", "Home of Franklin D. Roosevelt National Historic Site",
+    "Eleanor Roosevelt National Historic Site", "Culinary Institute of America", "Newburgh", "Storm King Mountain",
+    "Sleepy Hollow", "Philipsburg Manor", "Kykuit", "Hudson Valley", "Sleepy Hollow Cemetery", "Tarrytown", "Lyndhurst",
+    "Washington Irving's Sunnyside"]
   },
   "9": {
     "article_url": "",
