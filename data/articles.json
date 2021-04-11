@@ -111,11 +111,18 @@
     "Washington Irving's Sunnyside"]
   },
   "9": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/explorers-guide-7",
+    "places_and_poi": ["Chicago", "Chicago River", "Wrigley Field", "Pilsen", "Bucktown", "Brown Elephant", "Ragstock",
+    "Second Chance Thrift", "Lou Malnati's", "Neo Futurists", "Sound-Bar", "Lake Michigan", "Chilam Bilam",
+    "Sunda", "Mana Food Bar", "Irazu", "Kingston Mines", "Bari Italian Deli", "Shedd Aquarium",
+    "Museum of Science and Industry", "Lincoln Park", "Alfred Caldwell Lily Pool"]
   },
   "10": {
-    "article_url": "",
-    "places_and_poi": []
+    "article_url": "https://www.nationalgeographic.com/travel/article/geek-retreat-the-best-of-silicon-valley",
+    "places_and_poi": ["California", "California", "Los Angeles", "Santa Cruz", "Carmel", "Santa Barbara",
+      "Malibu", "Pacific Coast Highway", "Silicon Valley", "Palo Alto", "Stanford University", "Garden Court Hotel",
+      "Philz Coffee", "Coupa Cafe", "Stanford Memorial Church", "Clock Tower", "Google’s Mountain View campus",
+      "Computer History Museum", "Palo Alto Junior Museum and Zoo", "Palo Alto Farmers Market", "Chocolate Garage",
+      "Reposado", "Palo Alto Creamery"]
   }
 }
