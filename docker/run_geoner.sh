@@ -3,6 +3,7 @@
 docker run -ti --name geoner --mount type=bind,source=/data/geoner,target=/home/geoner \
   --privileged \
   -p 8888:8888 \
+  --gpus all \
   --volume=/tmp/.X11-unix:/tmp/.X11-unix \
   --device=/dev/dri:/dev/dri \
   --env="DISPLAY=$DISPLAY" \
